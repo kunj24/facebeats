@@ -1,44 +1,8 @@
 # Real Time Facial Emotion Detection 
 # Truth From Facial Expressions With Deep Learning Program That Detects Timely Emotion Analysis And Design
-# Derin Öğrenme İle Yüz İfadelerinden Gerçek Zamanlı Duygu Analizini Tespit Eden Program Ve Tasarımı 
-<br>
+\
 
-# Proje 2     
-
-**Meryem Özlem AYDOĞAN**
-<br>
-~From the report content:
-
-**1.2 Similar Examples in the World and in Turkey**
-<br>
-1.2 Similar Examples in the World and in Turkey
-Real-time emotion detection has attracted a lot of attention in the field of artificial intelligence and image processing in recent years. For this reason, there are many similar examples in the world and in our country. When similar projects that can be accessed as a result of the research are examined, it is found that models that perform face recognition, gender classification and emotion classification simultaneously in a single step using real-time convolutional neural network architecture have created awareness. Applications that predict age based on facial expressions have been developed and large data sets have been used for these applications. It is known that platforms such as "Affdex" developed by MIT, Microsoft's "Azure Cognitive Services" and "Face API, Amazon "Rekognition", "SkyBiometry", Emotion AI", "Face++", "Anthropic" are working on real-time emotion detection projects. These projects use deep learning techniques to classify emotional responses by building sentiment analysis models using large datasets. Pang and Lee pioneered the machine learning method, which has the most effective results in the studies conducted in the field of emotion analysis in the literature. The best success rate was 78.9%. 
-In Pang and Lee's project, text classification was treated differently. Dandil and 
-Özdemir, 2019, in their study, the classical convolutional neural network AlexNet and real 
-proposed an emotion recognition system based on facial expressions from timed video frames. 
-Chen and Ark, in their 2015 study, proposed an emotion classification system based on
-with the automatic learning convolutional neural network (ESA-CNN) that they use to manually 
-outperformed traditional methods based on prepared features.
-Studies have shown that ESA can be used for feature extraction in emotion recognition. 
-shows. The input layer on the convolution structure is the input of the data of the model to be trained. 
-is the layer that is transformed into the desired structure. 
-Sentiment analysis methods are divided into machine learning-based methods and dictionary-based methods. 
-are classified. Among these methods, considering the studies in the literature 
-machine learning based methods were found to give maximum accuracy. 
-There are some features that distinguish this project from other applications. Detailed 
-the fact that the success rates obtained as a result of research cannot exceed a certain limit
-and it is noteworthy that most projects do not come close to this accuracy limit. This problem 
-In order to provide a solution, additional layers have been added to the model creation part and model training 
-commonly used combinations have been tested in recent research to determine certain optimal 
-thresholds were tried to be determined. As a result, the evaluation and success rate
-has been increased. In addition, compared to other projects, we have developed a system that can return an instantaneous response value. 
-software has been developed and the expressions are easier to read. In this way, the model is built in a fast 
-and restructured and allowed to be improved.
-
-
-<br>
-
-**2. PROJECT CONTENT AND SCOPE** 
+**1. PROJECT CONTENT AND SCOPE** 
 <br>
 Recently, face recognition and detection systems have been used in many commercial, military, security, social and 
 is frequently used in applications in psychological fields. Analyses performed; human 
@@ -72,7 +36,7 @@ The project that realizes the process simultaneously has been revealed.
 <br>
 <br>
 
-**3.2 Infrastructure, Hardware and Software Specifications**
+**1.2 Infrastructure, Hardware and Software Specifications**
 A high quality dataset is needed for high performance of deep learning. This 
 Therefore, we should look for datasets where training and testing performance is measured to be high and 
 the appropriate set should be selected. In the project, the face expression recognition dataset is used for deep 
@@ -176,14 +140,6 @@ It is also known to be utilized.
 <br>
 <br>
 
-![Ekran Görüntüsü (102)](https://github.com/meryemozlem/real_time_facial_emotion_detection/assets/82104183/f560dbaa-2adb-4e6d-8541-1549dc06d64b)
-![Ekran Görüntüsü (103)](https://github.com/meryemozlem/real_time_facial_emotion_detection/assets/82104183/b22230dd-e68c-4ba4-b43c-efc1a7a48660)
-![Ekran Görüntüsü (104)](https://github.com/meryemozlem/real_time_facial_emotion_detection/assets/82104183/d885fb4f-0ef9-4439-9b6f-a485408b4ab2)
-![Ekran görüntüsü 2023-06-11 163034](https://github.com/meryemozlem/real_time_facial_emotion_detection/assets/82104183/4787e6f7-1c60-4fea-ace5-f6d5e4d04ebb)
-
-![Ekran Görüntüsü (106)](https://github.com/meryemozlem/real_time_facial_emotion_detection/assets/82104183/0e1a1911-2a6c-4e11-8672-b925a7f60399)
-![Ekran görüntüsü 2023-06-11 170327](https://github.com/meryemozlem/real_time_facial_emotion_detection/assets/82104183/bcb8dac7-2ddc-4f8c-b789-d985dc287257)
-![Ekran görüntüsü 2023-06-11 170351](https://github.com/meryemozlem/real_time_facial_emotion_detection/assets/82104183/8492315d-48a1-479f-977e-477ad0860de6)
 
 
 
