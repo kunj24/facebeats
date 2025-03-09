@@ -1,0 +1,1 @@
+iface.launch(share=True, debug=True)
